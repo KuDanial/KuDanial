@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/tengkuahmaddanial/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
-  <a href="mailto:danialtengku.work@gmail.com">
+  <a href="mailto:tengkuahmaddanial420@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
   </a>
 </p>
@@ -112,7 +112,7 @@ Here are some of the key projects I have built, showcasing a range of tech stack
 I am always open to discussing new web development projects, collaborating on open-source repositories, or exploring career opportunities:
 
 - **LinkedIn:** [linkedin.com/in/tengkuahmaddanial](https://www.linkedin.com/in/tengkuahmaddanial/)
-- **Email:** danialtengku.work@gmail.com
+- **Email:** tengkuahmaddanial420@gmail.com
 - **Personal Web Projects Portfolio:** Check out my repository list above! 🚀
 
 ---
