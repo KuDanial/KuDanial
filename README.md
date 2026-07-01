@@ -117,5 +117,5 @@ I am always open to discussing new web development projects, collaborating on op
 
 ---
 <p align="center">
-  <sub>Designed with ❤️ by KuDanial. Thank you for visiting!</sub>
+  <sub>❤️ Thank you for visiting! ❤️</sub>
 </p>
