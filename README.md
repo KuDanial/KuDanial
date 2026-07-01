@@ -17,14 +17,13 @@
 
 ## ⚡ About Me
 
-👋 Hello! I'm **Tengku Ahmad Danial**, an aspiring Software Developer and IT Graduate based in Malaysia. I hold a **Bachelor in Information Technology** and a **Diploma in Computer Science**. 
+👋 Hello! I'm **Tengku Ahmad Danial**, skilled in Web/Software development including Graphic, Multimedia and UI/UX design. I hold a **Bachelor in Information Technology** and a **Diploma in Computer Science**. 
 
-I am passionate about building responsive front-end applications, robust enterprise backend solutions, and practical mobile applications that solve real-world problems.
+I am always open to discussing new web development projects, collaborating on open-source repositories, or exploring career opportunities
 
 - 🎓 **Education:** Bachelor of IT & Diploma in Computer Science
-- 💼 **Focus:** Full-stack Web Development & Mobile Applications
-- 📍 **Location:** Malaysia (UTC+08:00)
-- ⚙️ **Workflow:** Clean code, MVC patterns, and responsive layouts
+- 💼 **Focus:** Full-stack Web Development & Software Application
+- 📍 **Location:** Malaysia (UTC/GMT+08:00)
 
 ---
 
@@ -108,11 +107,8 @@ Here are some of the key projects I have built, showcasing a range of tech stack
 
 ## ✉️ Let's Connect!
 
-I am always open to discussing new web development projects, collaborating on open-source repositories, or exploring career opportunities:
-
 - **LinkedIn:** [linkedin.com/in/tengkuahmaddanial](https://www.linkedin.com/in/tengkuahmaddanial/)
 - **Email:** tengkuahmaddanial420@gmail.com
-- **Personal Web Projects Portfolio:** Check out my repository list above! 🚀
 
 ---
 <p align="center">
