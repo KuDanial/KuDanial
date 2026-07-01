@@ -96,8 +96,8 @@ Here are some of the key projects I have built, showcasing a range of tech stack
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KuDanial&show_icons=true&theme=tokyonight&hide_border=true" alt="KuDanial's GitHub Stats" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KuDanial&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=KuDanial&theme=tokyonight&hide_border=true" alt="KuDanial's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=KuDanial&langs_count=4&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
