@@ -17,7 +17,7 @@
 
 ## ⚡ About Me
 
-👋 Hello! I'm **Tengku Ahmad Danial**, skilled in Web/Software development including Graphic, Multimedia and UI/UX design. I hold a **Bachelor in Information Technology** and a **Diploma in Computer Science**. 
+Hello!👋 I'm **Tengku Ahmad Danial**, skilled in Web/Software development including Graphic, Multimedia and UI/UX design. I hold a **Bachelor in Information Technology** and a **Diploma in Computer Science**. 
 
 I am always open to discussing new web development projects, collaborating on open-source repositories, or exploring career opportunities
 
