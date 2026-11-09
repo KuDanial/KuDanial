@@ -17,11 +17,9 @@
 
 ## ⚡ About Me
 
-Hello! 👋 I'm Danny, an Information Technology student from Malaysia with an interest in web and software development, including UI/UX, graphic and multimedia design.
+hey, im danny 👋 IT student @ UiTM, mostly building web apps and random stuff that seems cool. currently into full-stack web dev, UI/UX and a bit of mobile development.
 
-I'm currently pursuing my **Bachelor of Information Technology** at **Universiti Teknologi MARA (UiTM)** and previously completed a **Diploma in Computer Science**.
-
-I enjoy developing full-stack web applications, designing user interfaces, working with databases, and turning project ideas into functional systems. I'm always open to discussing web development projects, collaborating on open-source repositories, and exploring career opportunities.
+I'm always open to discussing web development projects, collaborating on open-source repositories, and exploring career opportunities.
 
 - 🎓 **Education:** Bachelor of Information Technology (In Progress) & Diploma in Computer Science
 - 💼 **Focus:** Full-stack Web Development & Software Applications
